@@ -2,7 +2,7 @@ let expect = require('chai').expect;
 
 
 
-let arrfuncs = require('../src/problem1.js');
+let arrfuncs = require('../src/problem2.js');
 
 describe('array functions', function() {
     it('removeEvens expected to remove the even numbers', function() {
